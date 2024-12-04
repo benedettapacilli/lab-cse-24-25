@@ -271,4 +271,5 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+venv/.
 # End of https://www.gitignore.io/api/java,linux,macos,gradle,windows,eclipse,intellij
